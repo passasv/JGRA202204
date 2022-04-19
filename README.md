@@ -1,5 +1,5 @@
 # JGRA202204
-Script to plot figures 3 to 11 in article of JGR: Atmospheres, titled:  
+Scripts to plot figures 3 to 11 in article of JGR: Atmospheres, titled:  
 "Experimental radial profiles of early time ($&lt;$ 4 $\mu$s) neutral and ion spectroscopic signatures in lightning-like discharges"
 
 1) Unzip Data.zip so there is a Data folder in the same path as the python code
